@@ -7,7 +7,8 @@ A passionate full-stack developer from India
 - 👯 I’m looking to collaborate with **Web3 & Blockchain projects**.
 - 💬 Ask me about Tech
 - 😄 Pronouns: Techie
-- ⚡ Check out my tech articles and blogs **medium.com/@talktorahul.b**
+- ⚡ Check out my tech articles and blogs
+  ==> **medium.com/@talktorahul.b**
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/RahulBoopalraj) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahlb/)
 
